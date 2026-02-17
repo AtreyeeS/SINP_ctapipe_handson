@@ -1,0 +1,17 @@
+name: sinp_ctapipe
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ctapipe
+  - astropy
+  - ffmpeg
+  - ipython
+  - jupyter
+  - matplotlib=3.10
+  - numpy=2.2
+  - pandas=2.2
+  - pyyaml=6
+  - scikit-learn=1.6
+  - scipy=1.15
+  - pip
